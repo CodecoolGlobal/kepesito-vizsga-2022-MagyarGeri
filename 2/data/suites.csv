@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 19 12:17:17 GMT 2022","Tue Jul 19 12:17:19 GMT 2022","2413","","SeleniumTest","","SeleniumTest","NamecardTest","Névjegykártyák",""
+"passed","Tue Jul 19 12:17:10 GMT 2022","Tue Jul 19 12:17:17 GMT 2022","6438","","SeleniumTest","","SeleniumTest","AlertTest","Felugró ablak ellenőrzése",""
+"passed","Tue Jul 19 12:17:08 GMT 2022","Tue Jul 19 12:17:10 GMT 2022","2294","","SeleniumTest","","SeleniumTest","SelectDayTest","Lenyíló lista tesztelése",""
+"passed","Tue Jul 19 12:17:04 GMT 2022","Tue Jul 19 12:17:08 GMT 2022","3803","","SeleniumTest","","SeleniumTest","TestInput","Beviteli mezők tesztelése (Two input fields)",""
+"passed","Tue Jul 19 12:17:19 GMT 2022","Tue Jul 19 12:17:22 GMT 2022","2618","","SeleniumTest","","SeleniumTest","TableTest","Táblázat sorai",""
