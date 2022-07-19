@@ -67,3 +67,4 @@ public class SeleniumTest extends Base{
        Assertions.assertEquals(expected, actual);
     }
 }
+
